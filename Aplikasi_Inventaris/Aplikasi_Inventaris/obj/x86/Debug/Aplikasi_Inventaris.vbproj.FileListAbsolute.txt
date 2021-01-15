@@ -1,0 +1,86 @@
+D:\SEMESTER V\Pemograman Visual Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.exe
+D:\SEMESTER V\Pemograman Visual Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.pdb
+D:\SEMESTER V\Pemograman Visual Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.xml
+D:\SEMESTER V\Pemograman Visual Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.fLogin.resources
+D:\SEMESTER V\Pemograman Visual Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.Resources.resources
+D:\SEMESTER V\Pemograman Visual Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.vbproj.GenerateResource.Cache
+D:\SEMESTER V\Pemograman Visual Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.exe
+D:\SEMESTER V\Pemograman Visual Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.xml
+D:\SEMESTER V\Pemograman Visual Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.pdb
+D:\SEMESTER V\Pemograman Visual Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.vbprojResolveAssemblyReference.cache
+D:\SEMESTER V\Pemograman Visual Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.fMenu.resources
+D:\SEMESTER V\Pemograman Visual Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.barang.resources
+E:\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.exe
+E:\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.xml
+E:\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.pdb
+E:\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.exe
+E:\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.pdb
+E:\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.xml
+E:\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.vbprojResolveAssemblyReference.cache
+E:\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.barang.resources
+E:\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.fLogin.resources
+E:\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.fMenu.resources
+E:\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.Resources.resources
+E:\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.vbproj.GenerateResource.Cache
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.exe
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.xml
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.pdb
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.exe
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.pdb
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.xml
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.vbprojResolveAssemblyReference.cache
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.barang.resources
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.fLogin.resources
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.fMenu.resources
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.Resources.resources
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.vbproj.GenerateResource.Cache
+D:\KAMPUS\4. Visual Dasar\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.supplier.resources
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.exe
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.xml
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.pdb
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.exe
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.pdb
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.xml
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.vbprojResolveAssemblyReference.cache
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.barang.resources
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.fLogin.resources
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.fMenu.resources
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.Resources.resources
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.pelanggan.resources
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.supplier.resources
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.vbproj.GenerateResource.Cache
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.pembelian.resources
+D:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.penjualan.resources
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.exe
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.xml
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.pdb
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.exe
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.pdb
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.xml
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\MySql.Data.dll
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.vbprojResolveAssemblyReference.cache
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.barang.resources
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.fLogin.resources
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.fMenu.resources
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.Resources.resources
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.pelanggan.resources
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.pembelian.resources
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.penjualan.resources
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.supplier.resources
+F:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.vbproj.GenerateResource.Cache
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.exe
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.xml
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.pdb
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.exe
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.pdb
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\bin\Debug\Aplikasi_Inventaris.xml
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.vbprojResolveAssemblyReference.cache
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.barang.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.fLogin.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.fMenu.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.Resources.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.pelanggan.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.pembelian.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.penjualan.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.supplier.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\Apl Inventaris\Aplikasi_Inventaris\Aplikasi_Inventaris\obj\x86\Debug\Aplikasi_Inventaris.vbproj.GenerateResource.Cache
