@@ -41,7 +41,9 @@ Public Class fLogin
         Call koneksi()
     End Sub
 
-    Private Sub Panel1_Paint(ByVal sender As System.Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles Panel1.Paint
 
+    Private Sub bKeluar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles bKeluar.Click
+        txtusername.Text = ""
+        txtpassword.Text = ""
     End Sub
 End Class

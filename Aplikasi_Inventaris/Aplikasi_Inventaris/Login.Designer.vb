@@ -74,7 +74,7 @@ Partial Class fLogin
         Me.bKeluar.Name = "bKeluar"
         Me.bKeluar.Size = New System.Drawing.Size(75, 23)
         Me.bKeluar.TabIndex = 5
-        Me.bKeluar.Text = "Log Out"
+        Me.bKeluar.Text = "Batal"
         Me.bKeluar.UseVisualStyleBackColor = True
         '
         'bMasuk
